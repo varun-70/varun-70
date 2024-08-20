@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
 
 <!--
 **varun-70/varun-70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
