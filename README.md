@@ -17,14 +17,32 @@ Here are some ideas to get you started:
 
 # Varun M S
 
-## QA Engineer | Automation Enthusiast | Cloud Practitioner
+## **Software Development Engineer in Test (SDET) | AWS Cloud Practitioner**
 
-🔍 Passionate about automation and manual testing. With over 3 years of experience in QA, I specialize in UI Automation (Selenium & Appium) crafting robust test frameworks using Java, TestNG, and Cucumber. I'm committed to continuous learning and exploring new technologies, currently focusing on optimizing test execution and deepening my knowledge in cloud services.
+🚀 **About Me**
+I am a results-driven **SDET with 4.5 years of experience** dedicated to building scalable automated testing solutions and enhancing software quality. I specialize in architecting robust UI and Mobile automation frameworks from the ground up. My focus lies at the intersection of high-quality code, efficient CI/CD pipelines, and cloud infrastructure.
 
-    🛠 Tech Stack: Selenium, Appium, Java, TestNG, Cucumber, Jenkins, AWS, SQL, Git, Postman, MySQL, JIRA, Intellij
-    🌐 Certifications: AWS Certified Cloud Practitioner (Aug 2024)
-    🧪 Methodologies: Test Driven Development (TDD), Behavior Driven Development (BDD), Agile
-    📚 Education: Bachelor of Engineering in Mechanical, Visvesvaraya Technological University, Bengaluru, India
-    🌱 I’m currently learning Playwright
+---
 
-📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/varun-m-s-0a8188209/)
+### 🛠 **Technical Ecosystem**
+
+* **Automation:** Playwright, Selenium, Appium, WDIO
+* **Languages & Frameworks:** Typescript, Javascript, Java, TestNG, TDD
+* **Cloud & DevOps:** **AWS (Certified)**, Jenkins, Git, Docker
+* **API & Database:** Postman, REST Assured, SQL, PostgreSQL
+* **Tools & Process:** JIRA, Agile/Scrum, IntelliJ IDEA
+
+---
+
+### 📈 **Professional Highlights**
+
+* **Experience:** 4.5 years of expertise in full-lifecycle software testing and automation.
+* **Focus:** Optimizing test execution speeds, building maintainable Page Object Models (POM), and integrating automated suites into CI/CD workflows.
+* **Certification:** 🎓 **AWS Certified Cloud Practitioner** (Earned Aug 2024).
+* **Education:** Bachelor of Engineering, Visvesvaraya Technological University, Bengaluru.
+
+---
+
+📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/varun-m-s-0a8188209/)
+
+---
